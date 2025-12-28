@@ -1,0 +1,51 @@
+Start testing: Dec 29 01:34 +03
+----------------------------------------------------------
+1/3 Testing: pk_rk4_math
+1/3 Test: pk_rk4_math
+Command: "/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/test_math"
+Directory: /mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests
+"pk_rk4_math" start time: Dec 29 01:34 +03
+Output:
+----------------------------------------------------------
+[OK] 8 tests passed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"pk_rk4_math" end time: Dec 29 01:34 +03
+"pk_rk4_math" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: pk_rk4_geometry
+2/3 Test: pk_rk4_geometry
+Command: "/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/test_geometry"
+Directory: /mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests
+"pk_rk4_geometry" start time: Dec 29 01:34 +03
+Output:
+----------------------------------------------------------
+[OK] 2980 tests passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"pk_rk4_geometry" end time: Dec 29 01:34 +03
+"pk_rk4_geometry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: pk_rk4_projection
+3/3 Test: pk_rk4_projection
+Command: "/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/test_projection"
+Directory: /mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests
+"pk_rk4_projection" start time: Dec 29 01:34 +03
+Output:
+----------------------------------------------------------
+[OK] 4 tests passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"pk_rk4_projection" end time: Dec 29 01:34 +03
+"pk_rk4_projection" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 29 01:34 +03

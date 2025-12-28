@@ -1,0 +1,10 @@
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/CMakeFiles/pk_rk4.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/CMakeFiles/test.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/CMakeFiles/test_math.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/CMakeFiles/test_geometry.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/CMakeFiles/test_projection.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/CMakeFiles/test.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/CMakeFiles/edit_cache.dir
+/mnt/c/Users/issam/Desktop/Personal Projects/pk_rk4/build/gtests/CMakeFiles/rebuild_cache.dir

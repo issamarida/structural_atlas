@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_projection.dir/test_projection.c.o -o test_projection  -lm 
