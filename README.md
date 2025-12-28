@@ -5,26 +5,26 @@ Built in plain C with SDL2.
 
 ## Steroid Collection
 
-Testosterone - Base compound
-Testosterone Enanthate - Long ester chain
-Testosterone Cypionate - Long ester
-Trenbolone - Double bonds
-Nandrolone/Deca - 19-nor
-Boldenone/EQ - Veterinary
-Dianabol - C17 methyl
-Anavar - Oxandrolone
-Winstrol - Nitrogen hetero
-Anadrol - Strong oral
-Masteron - DHT derivative
-Primobolan - Mild injectable
-Turinabol - Chlorinated
-Halotestin - Fluorinated
-Proviron - Oral DHT
-Mibolerone - Cheque Drops
-Superdrol - Methylated
-Oral Turinabol - Chloro compound
-Test Propionate - Short ester
-NPP - Short nandrolone
+- Testosterone - Base compound
+- Testosterone Enanthate - Long ester chain
+- Testosterone Cypionate - Long ester
+- Trenbolone - Double bonds
+- Nandrolone/Deca - 19-nor
+- Boldenone/EQ - Veterinary
+- Dianabol - C17 methyl
+- Anavar - Oxandrolone
+- Winstrol - Nitrogen hetero
+- Anadrol - Strong oral
+- Masteron - DHT derivative
+- Primobolan - Mild injectable
+- Turinabol - Chlorinated
+- Halotestin - Fluorinated
+- Proviron - Oral DHT
+- Mibolerone - Cheque Drops
+- Superdrol - Methylated
+- Oral Turinabol - Chloro compound
+- Test Propionate - Short ester
+- NPP - Short nandrolone
 
 ## Features
 
