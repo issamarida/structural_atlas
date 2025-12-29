@@ -44,7 +44,7 @@ Note: The molecular geometry is stylized for education and visualization.
 ## Requirements
 
 - CMake 3.16+
-- A C compiler (gcc or clang)
+- A C compiler
 - SDL2 development package
 - pkg-config
 
