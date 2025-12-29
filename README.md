@@ -39,8 +39,6 @@ Built in plain C with SDL2.
   - R: reset view
   - A: toggle auto-rotation
 
-Note: The molecular geometry is stylized for education and visualization.
-
 ## Requirements
 
 - CMake 3.16+
