@@ -1,7 +1,7 @@
 # Structural Atlas
 
 3D structural atlas for 20 of the most used steroid compounds in bodybuilding.
-Built in plain C with SDL2.
+Built in C with SDL2.
 
 ## Steroid Collection
 
